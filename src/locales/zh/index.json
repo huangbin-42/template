@@ -1,0 +1,18 @@
+{
+  "add": {
+    "succesilly": "添加成功",
+    "failed": "添加失败"
+  },
+  "modify": {
+    "succesilly": "修改成功",
+    "failed": "修改失败"
+  },
+  "delete": {
+    "succesilly": "删除成功",
+    "failed": "删除失败"
+  },
+  "share": {
+    "succesilly": "分享成功",
+    "failed": "分享失败"
+  }
+}

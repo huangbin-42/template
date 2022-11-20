@@ -1,0 +1,18 @@
+{
+  "add": {
+    "succesilly": "Add successfully",
+    "failed": "Add failed"
+  },
+  "modify": {
+    "succesilly": "Modify successfully",
+    "failed": "Modify failed"
+  },
+  "delete": {
+    "succesilly": "Delete successfully",
+    "failed": "Delete failed"
+  },
+  "share": {
+    "succesilly": "Share successfully",
+    "failed": "Share failed"
+  }
+}
